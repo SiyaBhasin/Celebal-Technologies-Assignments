@@ -57,8 +57,6 @@ Each column shows: **Noisy** input → **Denoised** output → **Original** clea
 
 **Key takeaway:** The 784→256→64→256→784 linear autoencoder is sufficient for noise removal and basic structure recovery, but a convolutional architecture would likely produce sharper reconstructions by preserving spatial locality.
 
-**Future experiments:** Try a convolutional encoder/decoder, vary `NOISE_FACTOR` (0.3 vs 0.7), increase bottleneck size, or evaluate with SSIM/PSNR instead of just MSE.
-
 ## Files in this Repo
 
 - `MNIST_Denoising_Autoencoder.ipynb` — full notebook (code + outputs)
