@@ -2,8 +2,6 @@
 
 A PyTorch implementation of a Denoising Autoencoder trained on the MNIST dataset. The model learns to remove Gaussian noise from handwritten digit images while preserving the underlying digit structure.
 
-Adapted from the linear encoder/decoder pattern in [NvsYashwanth/MNIST-Autoecncoder](https://github.com/NvsYashwanth/MNIST-Autoecncoder), modified for the denoising task (noisy input → clean target, instead of clean → clean).
-
 ## Project Overview
 
 1. Load and preprocess the MNIST dataset (normalized to [0, 1])
