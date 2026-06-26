@@ -15,8 +15,3 @@ The workspace is organized into weekly modular modules, culminating in a product
   * `week_8_assignment.ipynb` – The single-agent orchestration and tool-routing framework pipeline.
 
 ---
-
-
-
-  "result": "..."
-}
