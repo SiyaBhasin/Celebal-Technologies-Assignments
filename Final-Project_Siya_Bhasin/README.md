@@ -111,11 +111,16 @@ The model is deployed as an interactive CRM dashboard with 3 views:
 
 ---
 
-## 🖥️ App Screenshots
+## App Screenshots
 
-![Dashboard](Streamlit App Images/Executive Dashboard.png)
-![Lead List](images/leadlist.png)
-![Predictor](images/predictor.png)
+**Executive Dashboard**
+![Executive Dashboard](Streamlit%20App%20Images/Executive%20Dashboard.PNG)
+
+**Sales Lead List**
+![Sales Lead List](Streamlit%20App%20Images/Sales%20Lead%20List.PNG)
+
+**Live Lead Predictor**
+![Live Lead Predictor](Streamlit%20App%20Images/Live%20Lead%20Predictor.PNG)
 
 ---
 
