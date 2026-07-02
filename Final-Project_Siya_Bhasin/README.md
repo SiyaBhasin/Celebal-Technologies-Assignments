@@ -5,6 +5,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)](https://streamlit.io/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange?logo=scikit-learn)](https://scikit-learn.org/)
 [![Status](https://img.shields.io/badge/Status-Completed-brightgreen)]()
+[![Kaggle Dataset](https://img.shields.io/badge/Dataset-Kaggle-blue?logo=kaggle)](https://www.kaggle.com/datasets/amritachatterjee09/lead-scoring-dataset)
 
 ---
 
