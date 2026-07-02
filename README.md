@@ -15,9 +15,9 @@ This repository contains all weekly assignments and the final project completed 
 Celebal-Technologies-Assignments/
 │
 ├── Week1_Siya_Bhasin.ipynb         # Python, NumPy, Pandas, Statistics
-├── Week2_Siya_Bhasin.ipynb              # Tesla EV ML Pipeline + ARIMA Forecasting
-├── Week3_Siya_Bhasin.ipynb             # Customer Intelligence System (Clustering + Ensemble)
-├── Week4_Siya_Bhasin.ipynb            # Assignment Week 4
+├── Week2_Siya_Bhasin.ipynb         # Tesla EV ML Pipeline + ARIMA Forecasting
+├── Week3_Siya_Bhasin.ipynb         # Customer Intelligence System (Clustering + Ensemble)
+├── Week4_Siya_Bhasin.ipynb         # Assignment Week 4
 ├── Week5_Siya_Bhasin.ipynb         # Assignment Week 5      
 ├── Week6_Siya_Bhasin/              # Assignment Week 6
 ├── Week7_Siya_Bhasin/              # RAG Document QA (LangChain + FAISS + HuggingFace)
