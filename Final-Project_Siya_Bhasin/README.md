@@ -111,6 +111,14 @@ The model is deployed as an interactive CRM dashboard with 3 views:
 
 ---
 
+## 🖥️ App Screenshots
+
+![Dashboard](images/Executive Dashboard.png)
+![Lead List](images/Sales Lead List.png)
+![Predictor](images/Live Lead Predictor.png)
+
+---
+
 ## How to Run
 
 ```bash
