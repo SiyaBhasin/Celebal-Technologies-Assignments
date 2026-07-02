@@ -5,7 +5,7 @@
 [![Internship](https://img.shields.io/badge/Celebal%20Technologies-CEI%20Program-orange)](https://celebaltech.com/)
 [![Status](https://img.shields.io/badge/Status-Completed-brightgreen)]()
 
-This repository contains all weekly assignments and the final project completed during the **Celebal Excellence Internship (CEI) — Data Science Track** at Celebal Technologies, a Microsoft Gold Partner.
+This repository contains all weekly assignments and the final project completed during the **Celebal Excellence Internship (CEI) — Data Science Track** at Celebal Technologies.
 
 ---
 
@@ -15,8 +15,10 @@ This repository contains all weekly assignments and the final project completed 
 Celebal-Technologies-Assignments/
 │
 ├── Week1_Siya_Bhasin.ipynb         # Python, NumPy, Pandas, Statistics
-├── Week2_Siya_Bhasin/              # Tesla EV ML Pipeline + ARIMA Forecasting
-├── Week3_Siya_Bhasin/              # Customer Intelligence System (Clustering + Ensemble)
+├── Week2_Siya_Bhasin.ipynb              # Tesla EV ML Pipeline + ARIMA Forecasting
+├── Week3_Siya_Bhasin.ipynb             # Customer Intelligence System (Clustering + Ensemble)
+├── Week4_Siya_Bhasin.ipynb            # Assignment Week 4
+├── Week5_Siya_Bhasin.ipynb         # Assignment Week 5      
 ├── Week6_Siya_Bhasin/              # Assignment Week 6
 ├── Week7_Siya_Bhasin/              # RAG Document QA (LangChain + FAISS + HuggingFace)
 ├── Week8_Siya_Bhasin/              # Agentic AI Single-Agent Pipeline
@@ -34,7 +36,7 @@ Celebal-Technologies-Assignments/
 
 ##  Final Project — Lead Scoring Model (X Education)
 
-> **The capstone project of the internship, also submitted as NTCC deliverable.**
+> **The capstone project of the internship**
 
 X Education acquires thousands of leads daily but only ~30% convert. This project builds an end-to-end **Lead Scoring System** that assigns each prospect a score (0–100) based on conversion likelihood, helping the sales team focus on high-potential leads and push conversion toward 80%.
 
@@ -75,7 +77,7 @@ X Education acquires thousands of leads daily but only ~30% convert. This projec
 ## 👩‍💻 About
 
 **Siya Bhasin**
-B.Tech CSE (AI/ML Specialization) | Amity University, Noida | 2027 Batch
+B.Tech CSE | Amity University, Noida | 2027 Batch
 Data Science Intern — Celebal Technologies CEI Program | June–July 2026
 
 [![GitHub](https://img.shields.io/badge/GitHub-SiyaBhasin-black?logo=github)](https://github.com/SiyaBhasin)
